@@ -1,4 +1,4 @@
-#Raabya Zahid Khan
+
 ##Technology used
     pytest, python 3, selenium webdriver, chrome driver
 
